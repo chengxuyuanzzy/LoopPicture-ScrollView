@@ -1,14 +1,15 @@
 //
 //  ViewController.h
-//  LoopPicture
+//  ScrollviewTu
 //
-//  Created by shoujizhifu on 16/3/25.
-//  Copyright © 2016年 text. All rights reserved.
+//  Created by shoujizhifu on 16/3/10.
+//  Copyright © 2016年 hairong. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UIScrollViewDelegate>
+
 
 
 @end
